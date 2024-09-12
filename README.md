@@ -1,36 +1,55 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 𝓣𝓲𝓹 𝓒𝓪𝓵𝓬𝓾𝓵𝓪𝓽𝓸𝓻 🍽️💰
 
-## Getting Started
+A simple and elegant Tip Calculator built with React and TypeScript. This application allows users to enter the bill amount and tip percentage, calculating the tip and total amount quickly and easily.
 
-First, run the development server:
+## Features ✨
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **User-Friendly Interface:** Simple layout for quick input.
+- **Light and Dark Mode:** Toggle between light and dark themes. 🌞🌙
+- **Real-Time Calculation:** See the tip and total amounts updated instantly as you type. 🧮
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Technologies Used 🛠️
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **React**: For building the user interface.
+- **TypeScript**: For type safety and improved developer experience.
+- **Tailwind CSS**: For styling and responsive design.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Installation 🚀
 
-## Learn More
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/CodeVoyager007/Tip-Calculator.git
+   ```
 
-To learn more about Next.js, take a look at the following resources:
+2. Navigate to the project directory:
+   ```bash
+   cd Tip-Calculator
+   ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+4. Run the application:
+   ```bash
+   npm run dev 
+   ```
 
-## Deploy on Vercel
+## Usage 📋
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1. Enter the bill amount in the designated input field.
+2. Enter the desired tip percentage.
+3. Click the **Calculate** button to view the tip amount and total.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Customization 🎨
+
+You can easily modify the color theme and other UI elements by changing the values in the theme configuration.
+
+## Contribution 🤝
+
+Feel free to fork the repository and submit pull requests for any improvements or features!
+
+## Acknowledgements 🙏
+
+Made with ♥ by Ayesha Mughal
